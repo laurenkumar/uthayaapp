@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- title size -->
+    <dimen name="title_size">60sp</dimen>
+    <dimen name="sub_title_size">30sp</dimen>
+
+    <!-- text size -->
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="little_text_size">15sp</dimen>
+    <dimen name="edit_text_view_size">25sp</dimen>
+
+    <!-- margin dimens -->
+    <dimen name="margin_120">120dp</dimen>
+
+    <!-- padding dimens -->
+    <dimen name="padding_5">5dp</dimen>
+
+</resources>
