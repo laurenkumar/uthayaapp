@@ -32,10 +32,17 @@
     <string name="title_chap3">3. Au marché</string>
     <string name="at_gp">Icon chez le médecin</string>
     <string name="title_chap4">4. Chez le médecin</string>
+    <string name="weather">Icon de la météo</string>
+    <string name="title_chap5">5. Les temps</string>
+    <string name="zoo">Icon du zoo</string>
+    <string name="title_chap6">6. Au zoo</string>
 
     <!-- Other messages -->
     <string name="not_specified">Non spécifié</string>
     <string name="client_no">Client N°%s</string>
     <string name="client_info">Informations client</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
