@@ -14,5 +14,10 @@
 
     <!-- padding dimens -->
     <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+
+    <!-- button dimens -->
+    <dimen name="button_width">320dp</dimen>
+    <dimen name="button_height">55dp</dimen>
 
 </resources>

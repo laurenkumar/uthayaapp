@@ -6,7 +6,6 @@ import android.content.pm.PackageManager;
 import android.util.Log;
 
 public class Tools {
-	public static final int REQUEST_ENABLE_NFC = 12;
 
 	public static String getVersionName(Context context) {
 		String version;
